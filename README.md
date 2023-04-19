@@ -12,8 +12,8 @@
 1. 설치 : npx create-react-app . (현재 디렉토리에 설치할때 . 을 사용)
 
 2. 확인하기 :
-  1. cd 현재폴더이름명
-  2. npm start : 현재폴더라면 2번만 터미널에 치면 된다.
+    1. cd 현재폴더이름명
+    2. npm start : 현재폴더라면 2번만 터미널에 치면 된다.
 
 ## 리액트 라이프 싸이클
 <https://react.vlpt.us/basic/25-lifecycle.html>
